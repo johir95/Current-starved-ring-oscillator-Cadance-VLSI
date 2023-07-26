@@ -12,4 +12,19 @@ The Current starved ring oscillator with only PMOS Source circuit is developed a
 ![image](https://github.com/johir95/Current-starved-ring-oscillator-Cadance-VLSI/assets/90377555/1a46db3b-0084-4ff8-96f7-49a3e1fc7cb8)
       Figure: Schematic diagram
 
+ ![image](https://github.com/johir95/Current-starved-ring-oscillator-Cadance-VLSI/assets/90377555/a679e9d1-5f0c-46cd-a9bc-21537996fe33)
+ Figure: Layout 
+
+ ![image](https://github.com/johir95/Current-starved-ring-oscillator-Cadance-VLSI/assets/90377555/dd823370-2f5c-4ee6-8296-f4eefac1be33)
+ Figure: DRC check
+
+ ![image](https://github.com/johir95/Current-starved-ring-oscillator-Cadance-VLSI/assets/90377555/b15849c9-9141-426e-a6f6-f8ac807e5364)
+ Figure: LVS check
+
+
+
+
+      
+
+
 
